@@ -1,0 +1,33 @@
+#card-fwd{
+    transition: all 0.3s ease;
+
+}
+
+#card-fwd:hover{
+    background-color: #0F345E;
+    color: white;
+    margin-top: -10px;
+}
+
+#card-ds{
+    transition: all 0.3s ease;
+
+}
+
+#card-ds:hover{
+    background-color: #0F345E;
+    color: white;
+    margin-top: -10px;
+}
+
+#card-dm{
+    transition: all 0.3s ease;
+
+}
+
+#card-dm:hover{
+    background-color: #0F345E;
+    color: white;
+    margin-top: -10px;
+}
+
